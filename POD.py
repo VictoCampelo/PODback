@@ -35,35 +35,6 @@ for index, row in df.iterrows():
 
 
 
-#pyautogui.press('tab')
-#pyautogui.press('tab')                  
-#pyautogui.press('tab')
-#pyautogui.press('tab')
-#pyautogui.press('tab')      
-
-#pyautogui.write('200580294M')
-
-#pyautogui.press('enter')
-
-#time.sleep(3)
-
-
-#with pyautogui.hold('ctrl'):
-    #pyautogui.press('c')
-
-#pyautogui.press('win')
-#pyautogui.write('notepad')
-#pyautogui.press('enter')
-
-
- 
-
-
-
-
-
-#input()
-
 
 
 
